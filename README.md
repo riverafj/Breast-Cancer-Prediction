@@ -68,11 +68,6 @@ ADA_Model = AdaBoostClassifier(n_estimators=100, random_state=0)
 ADA_Model.fit(X_train, y_train)
 ```
 
-## Visualizations
-### Tableau: 
-https://public.tableau.com/shared/GN6J9SYTF?:display_count=n&:origin=viz_share_link 
-https://public.tableau.com/app/profile/wei.chen6999/viz/BreastCancerProject--WeiChen/Diagnosiscluster1?publish=yes
-
 
 
 ## Website
